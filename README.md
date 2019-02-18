@@ -1,5 +1,5 @@
-Artifactory C/C++ Community Edition
+Artifactory Pro Edition
 ===================================
 
-Docker image to run the free version of Artifactory for hosting a Conan
-repository.
+Docker image to run the paid version of Artifactory for hosting a variety of
+repositories.
